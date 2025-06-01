@@ -1,0 +1,38 @@
+/* styles.css */
+body {
+  background-color: #1e1a16;
+  color: #f0e9e0;
+  font-family: 'Georgia', serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #2e251d;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: #cbb89d;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #2e251d;
+  color: #cbb89d;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
